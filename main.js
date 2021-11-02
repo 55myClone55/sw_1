@@ -1,7 +1,7 @@
 //let val = ['usa','azerManad','avstalUsa','grivna','bitcoin']
 
 let currencyFirst = prompt('Введите валюту которая у вас есть','') 
-let figure = prompt('Сумму в цыфрах (число)','')   
+let figure = +prompt('Сумму в цыфрах (число)','')   
 let currencySecond = prompt('Ту валюту на которую хотите заменить','') 
 
 
